@@ -23,7 +23,7 @@ Minhas principais Soft Skills:
 
 Gosto muito de tecnologia e estou sempre de olho nas novidades e melhores práticas do mercado. Adoro aprender coisas novas para criar soluções cada vez mais limpas, eficientes e sustentáveis. Se quiser trocar ideias ou compartilhar experiências, será um prazer conversar!
 
-### Tecnologias e Softwares
+### Tecnologias
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/typescript/6a7282" height="32" alt="typescript logo" />
