@@ -32,11 +32,14 @@ Gosto muito de tecnologia e estou sempre de olho nas novidades e melhores práti
   <img src="https://cdn.simpleicons.org/vite/6a7282" height="32" alt="vite logo" />
   <img src="https://cdn.simpleicons.org/nextdotjs/6a7282" height="32" alt="nextjs logo" />
   <img src="https://cdn.simpleicons.org/tailwindcss/6a7282" height="32" alt="tailwindcss logo" />
+  <img src="https://cdn.simpleicons.org/bootstrap/6a7282" height="32" alt="bootstrap logo" />
+  <img src="https://cdn.simpleicons.org/vtex/6a7282" height="32" alt="vtex logo" />
   <img src="https://cdn.simpleicons.org/graphql/6a7282" height="32" alt="graphql logo" />
-  <img src="https://cdn.simpleicons.org/docker/6a7282" height="32" alt="docker logo" />
   <img src="https://cdn.simpleicons.org/sass/6a7282" height="32" alt="sass logo" />
+  <img src="https://cdn.simpleicons.org/docker/6a7282" height="32" alt="docker logo" />
   <img src="https://cdn.simpleicons.org/prisma/6a7282" height="32" alt="prisma logo" />
   <img src="https://cdn.simpleicons.org/redux/6a7282" height="32" alt="redux logo" />
+  <img src="https://cdn.simpleicons.org/shopify/6a7282" height="32" alt="shopify logo" />
   <img src="https://cdn.simpleicons.org/wordpress/6a7282" height="32" alt="wordpress logo" />
   <img src="https://cdn.simpleicons.org/php/6a7282" height="32" alt="php logo" />
 </div>
