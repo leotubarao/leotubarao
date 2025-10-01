@@ -26,17 +26,17 @@ Gosto muito de tecnologia e estou sempre de olho nas novidades e melhores práti
 ### Tecnologias e Softwares
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/typescript/white" height="32" alt="typescript logo" />
-  <img src="https://cdn.simpleicons.org/javascript/white" height="32" alt="javascript logo" />
-  <img src="https://cdn.simpleicons.org/react/white" height="32" alt="react logo" />
-  <img src="https://cdn.simpleicons.org/vite/white" height="32" alt="vite logo" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/white" height="32" alt="nextjs logo" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/white" height="32" alt="tailwindcss logo" />
-  <img src="https://cdn.simpleicons.org/graphql/white" height="32" alt="graphql logo" />
-  <img src="https://cdn.simpleicons.org/docker/white" height="32" alt="docker logo" />
-  <img src="https://cdn.simpleicons.org/sass/white" height="32" alt="sass logo" />
-  <img src="https://cdn.simpleicons.org/prisma/white" height="32" alt="prisma logo" />
-  <img src="https://cdn.simpleicons.org/redux/white" height="32" alt="redux logo" />
-  <img src="https://cdn.simpleicons.org/wordpress/white" height="32" alt="wordpress logo" />
-  <img src="https://cdn.simpleicons.org/php/white" height="32" alt="php logo" />
+  <img src="https://cdn.simpleicons.org/typescript/6a7282" height="32" alt="typescript logo" />
+  <img src="https://cdn.simpleicons.org/javascript/6a7282" height="32" alt="javascript logo" />
+  <img src="https://cdn.simpleicons.org/react/6a7282" height="32" alt="react logo" />
+  <img src="https://cdn.simpleicons.org/vite/6a7282" height="32" alt="vite logo" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/6a7282" height="32" alt="nextjs logo" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/6a7282" height="32" alt="tailwindcss logo" />
+  <img src="https://cdn.simpleicons.org/graphql/6a7282" height="32" alt="graphql logo" />
+  <img src="https://cdn.simpleicons.org/docker/6a7282" height="32" alt="docker logo" />
+  <img src="https://cdn.simpleicons.org/sass/6a7282" height="32" alt="sass logo" />
+  <img src="https://cdn.simpleicons.org/prisma/6a7282" height="32" alt="prisma logo" />
+  <img src="https://cdn.simpleicons.org/redux/6a7282" height="32" alt="redux logo" />
+  <img src="https://cdn.simpleicons.org/wordpress/6a7282" height="32" alt="wordpress logo" />
+  <img src="https://cdn.simpleicons.org/php/6a7282" height="32" alt="php logo" />
 </div>
